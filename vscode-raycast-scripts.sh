@@ -11,5 +11,6 @@
 # Documentation:
 # @raycast.author Julian Benegas
 # @raycast.authorURL https://github.com/julianbenegas
+# @raycast.description Opens VSCode on the Raycast scripts dir
 
 code ~/Documents/raycast

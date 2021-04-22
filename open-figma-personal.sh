@@ -12,4 +12,7 @@
 # @raycast.author Julian Benegas
 # @raycast.authorURL https://github.com/julianbenegas
 
-open -a "Google Chrome" 'https://www.figma.com/files/recent?fuid=643835193128106337'
+# Search for your `fuid` on the url
+FUID=643835193128106337
+
+open -a "Google Chrome" "https://www.figma.com/files/recent?fuid=$FUID"
